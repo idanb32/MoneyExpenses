@@ -1,0 +1,9 @@
+.Validtor{
+    color: red;
+}
+.AddExpenseInput{
+    display: flex;
+    justify-items: center;
+    padding: var(--gap-m);
+    gap: var(--gap-m);
+}

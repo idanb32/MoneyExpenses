@@ -1,0 +1,10 @@
+.btnContainer{
+    display: block;
+}
+.btn{
+    background-color: var(--primay-color);
+    color: var(--white-text-color);
+    font-family: var(--font-family);
+    cursor: pointer;
+
+}

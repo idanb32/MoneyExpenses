@@ -1,0 +1,12 @@
+{
+    "DevServer":{
+        "port":"8080",
+        "originAllowed":"*"
+    },
+    "db":{
+        "url":"mongodb+srv://user:1234@cluster0.a1lqx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+    ,"Billgates":{
+        "id":"620e3f9ac54bd2fc341d33dc"
+    }
+}

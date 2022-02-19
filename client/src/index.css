@@ -1,0 +1,13 @@
+:root{
+
+  --primay-color: #292961;
+
+  --white-text-color: #fff;;
+  --border-color: black;
+
+  --gap: 20px;
+  --gap-m: 15px;
+  --gap-s: 10px;
+
+  --font-family: 'Open Sans', sans-serif;
+}

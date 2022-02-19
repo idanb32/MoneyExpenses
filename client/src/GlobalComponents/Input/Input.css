@@ -1,0 +1,9 @@
+.Input {
+    border: 1px solid var(--border-color);
+    border-radius: .7em;
+}
+
+.Input input {
+    border: none;
+    padding: var(--gap-s);
+}

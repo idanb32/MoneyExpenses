@@ -1,0 +1,11 @@
+.settingButtons{
+    display: flex;
+    gap: var(--gap-s);
+}
+.SettingPage{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 100%;
+    gap: var(--gap-s);
+}

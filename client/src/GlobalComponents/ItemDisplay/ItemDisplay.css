@@ -1,0 +1,7 @@
+.ItemDisplay {
+    text-align: center;
+}
+
+.ItemDisplay .content {
+    padding: var(--gap);
+}

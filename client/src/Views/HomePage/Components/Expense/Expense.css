@@ -1,0 +1,15 @@
+.Expense{
+    /* border: 1px solid black; */
+    display: flex;
+    padding: var(--gap-s);
+    gap: var(--gap-s);
+}
+.amount{
+    border: 1px solid black;
+}
+.DayOfPurches{
+    border: 1px solid black;
+}
+.NameOfShop{
+    border: 1px solid black;
+}

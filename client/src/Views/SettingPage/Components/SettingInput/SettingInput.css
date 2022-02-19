@@ -1,0 +1,16 @@
+.SettingInput{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.mainInput{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: var(--gap-s);
+}
+.current{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
